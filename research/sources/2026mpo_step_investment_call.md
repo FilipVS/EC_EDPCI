@@ -10,9 +10,9 @@
 
 ## Key conclusions
 - ✅ A Czech-funded (EU cohesion money) call open to companies for **production of critical technologies incl. defence; closes 15 Oct 2026 (two weeks from 1 Oct 2026)** per this release.
-- ⚠️ Not verified whether the call closed early on over-subscription (a search-summary snippet claimed an early close on 11 Aug 2026 for a STEP call — unverified and possibly about the other STEP call). Check ISKP2021+/optak.gov.cz.
+- ⚠️ Not verified whether this call closed early. The 11 Aug 2026 early closure that was found applies to the **R&D** call (API page ✅), not necessarily this one — but the same 300 % rule may also exist here. Check the API page for STEP – Investice.
 - ⚠️ Whether batteries/RF fall in scope (clean-tech "batteries" is a STEP sector per consultant sources; defence-electronics in the defence sector) must be checked in the call text; not read.
-- Allocation split is regional and the Prague region is apparently excluded for implementation (per consultant source only).
+- The R&D call document excludes NUTS 2 Prague as target territory ✅; whether the same applies to Investice is not confirmed. This call (production) is the one relevant for scaling manufacturing, since the R&D call excluded production activities ✅.
 
 ## Open items
 - Verify against the primary programme/call documents where noted above.

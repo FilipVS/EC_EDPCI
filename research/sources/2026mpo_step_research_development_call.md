@@ -8,7 +8,7 @@
 - Headline allocation CZK 1.850 bn. **Applications 17 Jul 2026 – 30 Sep 2026**; may close earlier once applications reach 300 % of allocation, earliest 10 Aug 2026.
 
 ## Key conclusions
-- ✅ Window nominally ended 30 Sep 2026 (yesterday as of 1 Oct 2026) — **likely closed**; early closure possible and ⚠️ unverified (one search snippet said 11 Aug 2026).
+- ✅ **Correction (1 Oct 2026):** the call **closed early on 11 Aug 2026** after reaching 300 % of allocation — confirmed by the API page (`2026api_step_research_development_call_page.md`); 169 applications, CZK 5.63 bn requested. The 30 Sep date in this release was only the nominal end.
 - Not the EDIP call; separate national/cohesion R&D channel.
 
 ## Open items
