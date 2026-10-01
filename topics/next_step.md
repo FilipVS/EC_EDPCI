@@ -16,5 +16,8 @@
 3. **Prepare a one-page capability and supply-chain-origin sheet** (cell/component origin, ownership/control, design authority, export-control exposure) — it is what a participant or prime needs to apply the Art. 9/10 eligibility rules.
 4. **Calendar watch:** Commission's second call for expressions of interest (before end Apr 2027) and publication of the EDPCI funding procedure (not dated).
 
+## Status check (2026-10-01)
+Nobody can have applied for EDPCI funding yet (no open call); no EDPCI workshops/info days found; only named initiators: Eastern Flank Watch (LT, FI, EE, LV, PL, SE). See `topics/edpci_state_activity.md`.
+
 ## Open items
 - EDPCI "dedicated procedure"/work-programme text; named leads/procurement agents/SEAPs per EDPCI; Czech coordinating body; Czech companies involved; OJ text of Decision (EU) 2026/2221 (⚠️ number from EU Law Live).
