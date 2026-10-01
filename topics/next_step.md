@@ -4,6 +4,8 @@
 
 *Preliminary — based on 4 sources. Confirmed vs hypothesis marked per CLAUDE.md.*
 
+> **UPDATE 2026-10-01 (Regulation read):** hypothesis "join a consortium to supply" is now structured: for EDPCIs the company is a *supplier to states/procurement agent* (Art. 35(13) ✅), so the entry point is the Czech state (MPO/MoD) and the primes, not an EU application. The direct company route is IRA-KEC (16 Feb 2027).
+
 ## Plain assessment
 1. ✅ EDPCI is real (EDIP Art. 35, Council decision 28 Sep 2026) but is a **state-level designation**. The Council text names countries, not companies, and contains **no call, deadline or EU budget**. "Calls and deadlines" for EDPCIs: **not yet published** in anything obtained.
 2. ✅ Czechia is in 4 of 5 (not IMSD). That makes **DECODER and EFW** the most relevant targets (⚠️ by my inference: drone/counter-drone and C4ISTAR/AMD map best to batteries and RF).

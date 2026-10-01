@@ -1,0 +1,26 @@
+# Regulation (EU) 2025/2643 — European Defence Industry Programme (EDIP)
+
+- Source: OJ L, 29.12.2025, ELI http://data.europa.eu/eli/reg/2025/2643/oj. Official legal text ✅. PDF supplied by user (83 pp., PDF creation date 23 Dec 2025; publication date 29 Dec 2025 used for the name).
+- Attachment: `attachments/2025eu_edip_regulation_2025_2643.pdf`. Read in full: Art. 3, 9–13, 19–20, 35, recitals 47 etc. ⚠️ Not read: remaining articles (SEAP, Ukraine instrument, security of supply, etc.).
+
+## Raw summary (what matters here)
+- **Art. 3**: envelope EUR 1.2 bn (+ EUR 300 m Ukraine instrument) for 30 Dec 2025–31 Dec 2027; ≥15 % to common procurement (Art. 11), ≥30 % to industrial reinforcement (Art. 12), **up to 25 % to EDPCIs (Art. 35)** — 25 % of EUR 1.2 bn = EUR 300 m, matching the Commission's EUR 300 m (+25 m) figure.
+- **Art. 35** (EDPCIs): collaborative industrial projects; criteria in (2) incl. ≥4 Member States and open to all MS/associated countries/Ukraine; Council identifies by QMV on Commission proposal (3),(7); Council act lists objectives, participating countries at adoption date, estimated overall size (6). Funded deployment limited to: common procurement, production-capacity adjustment, industrial development/upgrade of products, infrastructure (8). **(13) "Only Member States and associated countries, as well as SEAPs … shall be eligible for funding under EDPCI activities."** (15) MS may apply support schemes/administrative support to EDPCIs (subject to State-aid rules). (19) **Any MS/associated country/Ukraine may join after establishment, subject to approval of all participating MS.** (17) annual joint implementation report. (9) participating MS must apply criteria equivalent to Art. 9 in contracts supported by Union funding.
+- **Art. 20(1)**: grants for Art. 35 actions may cover **up to 100 % of eligible costs** (recital 47 also).
+- **Art. 9** (eligible recipients/contractors): established and with executive management in Union/associated country; infrastructure and assets used for the action located there; no control by a non-associated third country/entity unless approved guarantees (screening); derogations for cooperation with outside entities (costs not eligible).
+- **Art. 10(3)–(4)**: components originating outside the Union and associated countries ≤ **35 % of estimated component cost** of the end product (procurement) or of the product whose capacity is increased (Art. 12 and non-procurement Art. 35 activities); no components from third countries that contravene Union security/defence interests; (5) design authority free of non-associated third-country restrictions.
+- **Art. 11**: common procurement by consortia of national contracting authorities (≥3 entities from ≥3 countries, ≥2 contracting authorities of MS) or a SEAP, via an appointed procurement agent that applies Art. 9-equivalent criteria to contracts and subcontractors (11(6)); Union contribution 15 % (25 % with conditions) of contract value (Art. 19).
+- **Art. 12**: industrial reinforcement; consortium of ≥3 entities from ≥2 MS **only for activity (d)** (industrialisation of EU-funded/co-operative products); otherwise no consortium requirement stated. **Art. 19(6)–(7)**: Union contribution ≤ **35 %** of eligible costs; up to **50 %** only if the majority of beneficiaries are SMEs/mid-caps in MS/associated countries or the action is by a SEAP, **and** at least one further condition (new cross-border cooperation; new greenfield infrastructure/lines; ramp-up of crisis-relevant manufacturing).
+
+## Key conclusions
+- ✅ **Companies cannot receive EDPCI funding directly** (Art. 35(13)). EDPCI money goes to MS/associated countries/SEAPs; companies are suppliers/contractors under contracts those states (or their procurement agent) place. This answers the "no company-facing EDPCI call" question definitively: none can exist under EDPCI funding as written.
+- ✅ **Czech co-funding is not mandated by Art. 35 text**, but Union funding may cover up to 100 % of eligible costs (Art. 20(1)); amounts and arrangements are fixed in the funding procedure/work programme — not in the Regulation. The detail of "dedicated procedure" remains unpublished.
+- ✅ Late joining is possible: Czechia (not in IMSD) could join IMSD later only with unanimous approval of IMSD participants (Art. 35(19)).
+- ✅ The **35 % non-Union/associated component cost cap** and **no third-country control / design-authority** rules (Arts. 9–10) are real, and apply to contractors in EDPCI-funded contracts via Art. 35(9)/11(6). Heuking's checklist is confirmed in substance; precise reading above supersedes Heuking.
+- ✅ **IRA funding rate nuance (correction/refinement):** the 50 % ceiling is not available to every company — it requires an SME/mid-cap majority (or SEAP) plus a further condition. Default is 35 %. Whether the user's company is an SME/mid-cap is not known to me.
+- ✅ IRA: single applicants are possible except for activity (d) (Art. 12(2)), consistent with the IRA-KEC slides.
+- ✅ Art. 35(15): national support schemes for EDPCIs allowed → a possible Czech national-funding lever (to ask MPO about; no Czech scheme documented).
+
+## Open items
+- Work programme text implementing Art. 21 for EDPCI "dedicated procedure"/funding rules — not seen.
+- Remaining Regulation articles (SEAP, security of supply, Ukraine) unread.
