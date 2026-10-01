@@ -1,5 +1,7 @@
 # Preliminary assessment and next step (batteries / RF, Czech company)
 
+> **UPDATE 2026-10-01 (later fetch):** a company-facing EDIP call matching batteries *and* RF exists — IRA Key Electronic Components, deadline **16 Feb 2027**, single applicants allowed. See `topics/edip_company_facing_calls.md`. Item 2 below is partly answered; the recommendation order should now be: (1) read the KEC call document on the F&T portal, (2) ask MPO about national support/co-ordination for both IRA-KEC and EDPCI participation, (3) capability/origin sheet. Council text still has no EDPCI company call.
+
 *Preliminary — based on 4 sources. Confirmed vs hypothesis marked per CLAUDE.md.*
 
 ## Plain assessment

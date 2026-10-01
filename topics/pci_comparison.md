@@ -19,6 +19,15 @@ Source for all rows unless noted: Council draft decision ST 12742/26 Annex ✅ (
 - **SPACE** ⚠️ — SATCOM/PNT/NAVWAR/SIGINT → RF payload/ground segment; battery only for satellites/space-grade (niche). ✅ CZ participates.
 - **IMSD** ⚠️ — unmanned underwater/surface systems → batteries; but ✅ **CZ not a participant** → lowest priority for a Czech firm (still reachable as a subcontractor to a foreign prime, speculatively).
 
+## Commission proposal (3 Jul) vs Council draft (14 Sep) — added 2026-10-01 ✅
+| | DECODER | IMSD | SPACE | EU-FIAMD | EFW |
+|---|---|---|---|---|---|
+| # states, Commission | 28 listed (26 MS + NO + UA) | 17 | 16 | 16 | 15 |
+| # states, Council draft | 28 | 17 | 20 | 19 | 17 |
+| Size, Commission | 3.5–5 bn by 2033 | 43–72 bn by 2045 | up to 24 bn by 2034 | 55–80 bn by 2040 | **60–100 bn by 2036** |
+| Size, Council draft | same | same | same | same | **8.5–10 bn by 2032; up to 100 bn by 2036** |
+Czechia is in the same four at both stages. Use Council draft/factsheet figures; the OJ text (Decision (EU) 2026/2221, ⚠️) is still to be checked.
+
 ## Open items
-- Adopted-text country lists (Heuking suggests Council lists differ from the 3 Jul proposal).
+- Adopted-text (OJ) country lists — draft vs proposal differences now confirmed; OJ text not yet compared.
 - Lead nations / procurement agents / named industry per project — not published in sources so far.

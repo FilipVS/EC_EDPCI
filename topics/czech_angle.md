@@ -13,6 +13,10 @@
 ## Programme-family discipline
 EDPCI/EDIP (Reg. 2025/2643) facts here. Nothing in the sources concerns EDF, EDIRPA, ASAP; do not mix. Czech facts about those not yet researched.
 
+## Update 2026-10-01
+- ✅ Re-fetched MPO release (live, same content: dept in EU and Foreign Trade Section, Benda from 14 Sep 2026; contact only "through MPO's official channels" — no direct contact in the release).
+- ✅ Commission proposal lists Czechia in the same four EDPCIs. IRA (company-level) calls require national eligibility only; role of MPO in them not documented.
+
 ## Open items
 - Who coordinates CZ EDIP/EDPCI participation — MPO or MoD (or both)? Ask MPO.
 - Czech companies already linked to any EDPCI (none found in sources).
