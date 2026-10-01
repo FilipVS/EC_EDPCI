@@ -33,3 +33,6 @@ EUR 80 bn each — meaning not verified.
 - Read the Council press release and implementing decision in full (blocked).
 - Confirm per-project participating states, lead entities, instruments, calls, deadlines.
 - Verify Czech participation per project; battery / RF relevance (likely DECODER, EFW, FIAMD, SPACE).
+
+## Update 2026-10-01 (after primary sources read)
+Superseded by `2026consilium_edpci_implementing_decision_draft_st12742.md` and the Council press release. Verified: the five projects, state counts for DECODER (28), IMSD (17), SPACE (20), EU-FIAMD (19), EFW (17), and the envelopes all match the Council draft ✅. EDIP framing confirmed ✅. The "EUR 325 million" is only supported by Heuking (⚠️), not by any Council document.
