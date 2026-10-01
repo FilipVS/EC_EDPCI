@@ -21,6 +21,9 @@ EDPCI/EDIP (Reg. 2025/2643) facts here. Nothing in the sources concerns EDF, EDI
 - ✅ Czech co-funding is not set by Art. 35; EU grants may cover up to 100 % of EDPCI eligible costs (Art. 20(1)); details in the unpublished funding procedure. Czech companies can only get EDPCI money as contractors of the states/procurement agent. Art. 35(15) permits national support schemes — none documented for Czechia.
 - ✅ Czechia could join IMSD only with unanimous approval of its participants (Art. 35(19)).
 
+## Update 2026-10-01 (Czech sources)
+See `topics/czech_landscape_2026.md` for institutions, instruments and deadlines. Headline: MPO named by AOBP as EDF LoI administrator with Benda as contact (✅/⚠️); **no public Czech EDIP/EDPCI contact point or Czech co-funding found**; open Czech-funded call: OP TAK STEP – Investice, closes 15 Oct 2026.
+
 ## Open items
 - Who coordinates CZ EDIP/EDPCI participation — MPO or MoD (or both)? Ask MPO.
 - Czech companies already linked to any EDPCI (none found in sources).
