@@ -15,4 +15,4 @@
 - ✅ Company-addressable money is in **IRA** (EUR 440 m for EU/Norway industry).
 
 ## Open items
-- Legal Work Programme text (Art. 21 decision) not read; the "dedicated procedure" for EDPCI funding not described here.
+- ✅ Resolved 2026-10-01: the legal Work Programme C(2026) 2174 is now read for EDPCI parts — see `2026ec_edip_work_programme_2026_2027_c_2026_2174.md`. The "EUR 25 m" is the roadmap action (CSA-EDPCI); the EUR 300 m is the deployment call.

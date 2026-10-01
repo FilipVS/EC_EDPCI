@@ -25,10 +25,16 @@ Evidence: ✅ = official; ⚠️ = secondary/inferred.
 - Long-term financing beyond EDIP's 2025–27 window is an acknowledged open issue (ECA warning quoted in the EP study; Commission page: financing "may be continued under the future MFF").
 - Industry-side channel to verify: "capability coalition" dialogues with industry foreseen for mid-2026 (Readiness Roadmap, per the study).
 
+## Added 2026-10-01 — the funding call exists in the Work Programme (C(2026) 2174) ✅
+- **Call EDIP-P-2026-FNLC-EDPCI**: grant call run by DG DEFIS; applicants are **consortia of ≥4 Member States/associated countries participating in an EDPCI (or a SEAP)** — no companies. Fundable: common procurement, production-capacity adjustment, industrial development/upgrade, infrastructure. Each proposal names, per activity, the **legal entity/procurement agent**, participating countries and the cooperation framework (LoI/MoU/contracts). Budget "considered" EUR 300 m, booked in **2027** appropriations.
+- **Call topic CSA-EDPCI** (EUR 25 m): states build long-term roadmaps for 2028–2034 — first version end 2027, full by end 2029 — listing activities, cost estimates, countries, procurement agents; no commitment of future EU money.
+- **Not yet published**: call dates, funding rate, milestones, verification (all "at a later stage" under Reg. Art. 21(3)).
+- Source: `research/sources/2026ec_edip_work_programme_2026_2027_c_2026_2174.md`.
+
 ## Assessment
 EDPCI is an **EU Council-identified, member-state-driven framework under EDIP** — real legal status, but the identification itself carries **no binding funding commitment and no company-facing call**. The headline "EUR 3.5–100 bn" figures are *estimated overall sizes of the projects* (largely national spending), not EU funding. Do not present EDPCI as a funding pot.
 
 ## Open items
-- Funding for an EDPCI goes to the participating MS group / SEAP "in accordance with a dedicated procedure" ✅ (Commission proposal) — procedure not yet seen.
+- Funding for an EDPCI goes to the participating MS group / SEAP "in accordance with a dedicated procedure" ✅ — outline now seen in the Work Programme (see above); details still pending.
 - ~~Read EDIP Reg. Art. 35~~ done 2026-10-01. Still open: the work-programme text for the EDPCI funding procedure.
 - Legal EDIP work programme / call documents on EU Funding & Tenders portal (portal not fetchable). Summary-level WP and IRA topics now read — see `topics/edip_company_facing_calls.md`.
