@@ -16,3 +16,6 @@
 
 ## Open items
 - Verify against the primary programme/call documents where noted above.
+
+## Update 2026-10-01 (later sources)
+- ✅ API page and call document now read: the call is split by region; **less-developed regions closed 1 Aug 2026 (300 %)**; transition regions still listed open to 15 Oct 2026. Scope is production incl. battery manufacturing. See `2026api_step_investment_call_page.md` and `2026mpo_op_tak_step_investment_call_document_01_26_089.md`.

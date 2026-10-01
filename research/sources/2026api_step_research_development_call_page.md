@@ -1,7 +1,7 @@
 # Agentura pro podnikání a inovace (API) — page "STEP – výzkum a vývoj kritických technologií" (printed 1 Oct 2026)
 
 - Source: https://apiagentura.gov.cz/podporovane-aktivity-optak/step/vyzkum-a-vyvoj-kritickych-technologii/ — user-supplied browser print of 1 Oct 2026 16:33 (the page blocked my own fetch). Czech government intermediary body ✅.
-- Attachment: `attachments/2026api_step_research_development_call_page.pdf` — ✅ read (image-only PDF, read visually).
+- Attachments: `attachments/2026api_step_research_development_call_page.pdf` (image-only print, read visually) and `….html` (user-supplied full HTML, same content, ✅ read; adds the link to the STEP – Investice page).
 
 ## Raw summary
 - Status banner: **"Uzavřená výzva" (closed call).** Call announced 19 Jun 2026; receipt opened 17 Jul 2026 10:00; **receipt ended 11 Aug 2026 00:01.**
@@ -17,4 +17,4 @@
 - ⚠️ A successor round is **not announced** in the materials supplied.
 
 ## Open items
-- Same page for the **STEP – Investice** (production) call not yet seen — it is the one still nominally open to 15 Oct 2026 (per MPO release); its status is unverified.
+- STEP – Investice page now read: see `2026api_step_investment_call_page.md` (less-developed regions closed 1 Aug; transition regions listed open to 15 Oct).

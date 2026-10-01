@@ -6,7 +6,7 @@
 
 > **UPDATE 2026-10-01 (Regulation read):** hypothesis "join a consortium to supply" is now structured: for EDPCIs the company is a *supplier to states/procurement agent* (Art. 35(13) ✅), so the entry point is the Czech state (MPO/MoD) and the primes, not an EU application. The direct company route is IRA-KEC (16 Feb 2027).
 
-> **UPDATE 2026-10-01 (Czech sources, corrected after user-supplied prints):** the STEP **R&D** call is already **closed (11 Aug 2026)**. Time-critical item: **OP TAK STEP – Investice** (production) nominally closes 15 Oct 2026 but may have closed early — status unverified; check first. Before that, one e-mail to matej.benda@mpo.gov.cz (published by AOBP as the MPO contact for EDF LoIs) can ask the EDIP/EDPCI coordination question. See `topics/czech_landscape_2026.md`.
+> **UPDATE 2026-10-01 (Czech sources, corrected after user-supplied prints/HTML):** STEP **R&D** call closed 11 Aug 2026. **STEP – Investice** (production incl. battery manufacturing): less-developed-regions half closed 1 Aug; **transition-regions half listed open to 15 Oct 2026 15:00** — time-critical *only if* the company's production site is in Středočeský, Plzeňský, Jihočeský, Vysočina or Jihomoravský kraj (not Prague) and it can fund ≥25 % own share. First verify it hasn't hit the 300 % cap. Then e-mail matej.benda@mpo.gov.cz on EDIP/EDPCI coordination. See `topics/czech_landscape_2026.md`.
 
 ## Plain assessment
 1. ✅ EDPCI is real (EDIP Art. 35, Council decision 28 Sep 2026) but is a **state-level designation**. The Council text names countries, not companies, and contains **no call, deadline or EU budget**. "Calls and deadlines" for EDPCIs: **not yet published** in anything obtained.
