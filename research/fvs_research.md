@@ -1,0 +1,37 @@
+[EC confirms five EDPCIs](https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-defence-industry-council-identifies-the-first-five-projects-of-common-interest/)
+- EDPCI introduced by **European Defence Industry Programme** (EDIP, adopted by EU in 2025)
+- collaborative industrial projects
+- EU countries **working together** on major defence initiatives (too large for individual countries)
+- now, there are **5 eligible projects to be funded through EDIP**
+    - DECODER (Drone and counter-drone European resolve)
+        - build and scale-up drones
+        - stop enemy drones
+        - **Financial size: 3.5 to 5 BEUR by 2033**
+    - IMSD (Integrated Maritime and Seabed Defence)
+        - Integrated and interoperable defence system
+        - Identify, deter and respond to threats at sea and on the seabed
+        - **Czech republic not listed !!**
+    - SPACE
+        - earrly-warning satellites to detect missile launches
+        - satellite coms, intelligence, surveillance and reconnaissance
+        - precise positioning and timing systems
+        - navigation warfare
+        - rapid satellite replacement
+        - **Financial size: up to 24 BEUR by 2034**
+    - EU-FIAMD (EU Federated Integrated Air and Missile Defence including Early Warning)
+        - Collective and integrated missile defence
+        - early warning of incoming threats
+        - sensors, effectors and command and control
+        - common architecture, industrial ramp-up and common procurement
+        - **Financial size: 55 to 80 BEUR by 2040**
+    - Eastern Flank Watch (EFW)
+        - security along eastern border
+        - ground combat, drone defence, C4ISTAR, counter-mobility, military-mobility, air and missile defense systems
+            - procurement of products, services and infrastructure to enhance these
+            - expansaion of production capacity and facilities
+        - **Financial size: 8.5 to 10 BEUR by 2032, 100 BEUR by 2036**
+
+[EDIP regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202502643)
+- Article 35 EDPCI
+    - (13) Member states, associated countries and joint armament structures (of member states and associated countries) are eligible for funding (**companies are not recepients**)
+    - can cover up to 100 % of eligible costs, no national contribution needed
