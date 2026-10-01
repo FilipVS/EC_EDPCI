@@ -148,3 +148,11 @@ named participants.
   recommendation available — not the broadest generic one ("network with stakeholders") if a
   more specific, checkable one exists ("contact [named person] at [named department], since
   [named mechanism] is the stated entry point").
+
+## Current scope directive (set by the user, 2026-10-01)
+
+**Study EDPCI exclusively.** Do not research or report on EDIP in general (IRA, common procurement,
+etc.), EDF, STEP/OP TAK, PRODEF or any other calls/programmes unless the user lifts this. Only cite
+EDIP/other facts when strictly needed to explain how EDPCI itself works (e.g. Reg. 2025/2643
+Art. 35). Notes already in the vault on other programmes stay as background but are not to be
+extended or promoted in recommendations.

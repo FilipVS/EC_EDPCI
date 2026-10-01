@@ -21,6 +21,10 @@ Evidence: ✅ = official; ⚠️ = secondary/inferred.
 - Art. 20(1): EDPCI grants may cover up to 100 % of eligible costs. Art. 3(4): up to 25 % of the EUR 1.2 bn envelope (= EUR 300 m) may go to EDPCIs.
 - Art. 35(19): later accession of any MS/associated country/Ukraine needs approval of all participating MS. Art. 35(15): national support schemes allowed.
 
+## Added 2026-10-01 (EP study, ⚠️ pre-adoption analysis)
+- Long-term financing beyond EDIP's 2025–27 window is an acknowledged open issue (ECA warning quoted in the EP study; Commission page: financing "may be continued under the future MFF").
+- Industry-side channel to verify: "capability coalition" dialogues with industry foreseen for mid-2026 (Readiness Roadmap, per the study).
+
 ## Assessment
 EDPCI is an **EU Council-identified, member-state-driven framework under EDIP** — real legal status, but the identification itself carries **no binding funding commitment and no company-facing call**. The headline "EUR 3.5–100 bn" figures are *estimated overall sizes of the projects* (largely national spending), not EU funding. Do not present EDPCI as a funding pot.
 

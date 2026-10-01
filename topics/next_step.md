@@ -1,23 +1,19 @@
-# Preliminary assessment and next step (batteries / RF, Czech company)
+# Next step — EDPCI only (batteries / RF, Czech company)
 
-> **UPDATE 2026-10-01 (later fetch):** a company-facing EDIP call matching batteries *and* RF exists — IRA Key Electronic Components, deadline **16 Feb 2027**, single applicants allowed. See `topics/edip_company_facing_calls.md`. Item 2 below is partly answered; the recommendation order should now be: (1) read the KEC call document on the F&T portal, (2) ask MPO about national support/co-ordination for both IRA-KEC and EDPCI participation, (3) capability/origin sheet. Council text still has no EDPCI company call.
+*Scope directive from the user (2026-10-01): study EDPCI exclusively; other EDIP calls and national programmes are out of scope for recommendations. Earlier versions of this note (which discussed other calls) remain in git history.*
 
-*Preliminary — based on 4 sources. Confirmed vs hypothesis marked per CLAUDE.md.*
-
-> **UPDATE 2026-10-01 (Regulation read):** hypothesis "join a consortium to supply" is now structured: for EDPCIs the company is a *supplier to states/procurement agent* (Art. 35(13) ✅), so the entry point is the Czech state (MPO/MoD) and the primes, not an EU application. The direct company route is IRA-KEC (16 Feb 2027).
-
-> **UPDATE 2026-10-01 (Czech sources, corrected after user-supplied prints/HTML):** STEP **R&D** call closed 11 Aug 2026. **STEP – Investice** (production incl. battery manufacturing): less-developed-regions half closed 1 Aug; **transition-regions half listed open to 15 Oct 2026 15:00** — time-critical *only if* the company's production site is in Středočeský, Plzeňský, Jihočeský, Vysočina or Jihomoravský kraj (not Prague) and it can fund ≥25 % own share. First verify it hasn't hit the 300 % cap. Then e-mail matej.benda@mpo.gov.cz on EDIP/EDPCI coordination. See `topics/czech_landscape_2026.md`.
-
-## Plain assessment
-1. ✅ EDPCI is real (EDIP Art. 35, Council decision 28 Sep 2026) but is a **state-level designation**. The Council text names countries, not companies, and contains **no call, deadline or EU budget**. "Calls and deadlines" for EDPCIs: **not yet published** in anything obtained.
-2. ✅ Czechia is in 4 of 5 (not IMSD). That makes **DECODER and EFW** the most relevant targets (⚠️ by my inference: drone/counter-drone and C4ISTAR/AMD map best to batteries and RF).
-3. User hypothesis "join a large consortium and supply batteries/RF": **partly supported, not proven.** Support: projects are built on common procurement and industrial ramp-up; Heuking ⚠️ points to primes/system integrators, procurement agents and SME/mid-cap supplier roles. Gap: no source shows a consortium-formation mechanism or any named consortium. The route via a *prime or national procurement* is plausible, not confirmed.
-4. ⚠️ Compliance gating likely matters for a battery/RF maker (EU/associated-country control and management, ≤35 % non-EU/associated component cost, design authority) — from Heuking only; **verify in Reg. 2025/2643**.
+## Plain assessment (evidence tiers per CLAUDE.md)
+1. ✅ The five EDPCIs are formally identified (Council decision 28 Sep 2026). They are **state-level**: only Member States, associated countries and SEAPs can receive EDPCI funding (Reg. 2025/2643 Art. 35(13)). Companies are never EDPCI funding recipients.
+2. ✅ **No EDPCI funding call, deadline or award exists yet.** EU money: EUR 300 m + 25 m for all five, via a "dedicated procedure" not yet published. Second call for expressions of interest (new EDPCIs, state-submitted) intended before end Apr 2027.
+3. ✅ Czechia participates in DECODER, SPACE, EU-FIAMD, EFW; not IMSD. ⚠️ No Czech lead entity, coordinating ministry, national funding position or named Czech company is public.
+4. ⚠️ Battery/RF fit is inference only: no EDPCI document uses "battery" or "RF". Best candidates: DECODER and EFW (drone/counter-drone, C4ISTAR), EU-FIAMD (sensors/effectors/C2), SPACE (SATCOM/PNT/NAVWAR).
+5. User hypothesis ("join a consortium and supply a larger mission"): **refined, not proven.** For EDPCIs the realistic entry is as supplier/subcontractor to the participating states or their procurement agent/SEAP; the Regulation requires equivalent Art. 9 eligibility rules (EU establishment and management, no third-country control) and the 35 % non-EU/associated component-cost cap in contracts supported by Union funding (Art. 35(9), Art. 10(3)–(4)). No formal consortium-formation process is published.
 
 ## Sharpest verifiable next steps
-1. **Contact MPO's Odbor obranně-průmyslové spolupráce (director Matěj Benda)** with one specific question: *which Czech body coordinates Czech participation in DECODER / EFW / EU-FIAMD / SPACE, and who are the lead nations/procurement agents and Czech contact persons in those projects?* Basis: the department exists, covers European funds support, and took over the agenda 1 Jul 2026 ✅; whether it is the EDPCI entry point is unconfirmed ⚠️ — the question tests exactly that. (Internal owner: Robin Schilhart — confirm who sends it.)
-2. Obtain the **EDIP Regulation text** and the EDIP **work programme / open calls** to confirm whether any company-facing call exists and what the eligibility rules (35 %, control) are, before any consortium conversation.
-3. Prepare a one-page internal **battery/RF capability and supply-chain-origin sheet** (cell/component origin, ownership, ITAR/EAR exposure) — needed for any prime to assess eligibility.
+1. **E-mail MPO's defence-industrial cooperation department (director Matěj Benda, matej.benda@mpo.gov.cz — published by AOBP as the MPO contact for EDF letters of intent; its EDPCI role is unconfirmed)** with four precise questions: (a) which Czech body (MPO, MoD, both) coordinates Czech participation in DECODER, SPACE, EU-FIAMD and EFW; (b) who are the lead nations / procurement agents / SEAPs and the Czech working-level contacts in each; (c) how can Czech suppliers (batteries, RF) register their capabilities with the participants; (d) does Czechia intend to use national support schemes for EDPCI activities (Art. 35(15))? *(Internal sender: Robin Schilhart — confirm.)*
+2. **Find out whether the "capability coalition" dialogues with industry (mid-2026) cover the five EDPCIs** — ask the Commission DEFIS contact page or Benda; ⚠️ the existence of an EDPCI-specific industry channel is unverified.
+3. **Prepare a one-page capability and supply-chain-origin sheet** (cell/component origin, ownership/control, design authority, export-control exposure) — it is what a participant or prime needs to apply the Art. 9/10 eligibility rules.
+4. **Calendar watch:** Commission's second call for expressions of interest (before end Apr 2027) and publication of the EDPCI funding procedure (not dated).
 
-## Open items (carried)
-Adopted OJ text; EDIP Regulation; Commission 3 Jul proposal page; EDIP calls/deadlines (Heuking's "Oct 2026 / Feb 2027" unverified); named leads/consortia; CZ co-funding; Czech ministry lead.
+## Open items
+- EDPCI "dedicated procedure"/work-programme text; named leads/procurement agents/SEAPs per EDPCI; Czech coordinating body; Czech companies involved; OJ text of Decision (EU) 2026/2221 (⚠️ number from EU Law Live).
