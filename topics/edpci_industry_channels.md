@@ -1,0 +1,25 @@
+# Is there a channel for suppliers to meet EDPCI participants? ("capability coalition" industry dialogues)
+
+*Scope: EDPCI only (user directive). Evidence tiers: ✅ official; ⚠️ secondary/inferred. Researched 2026-10-01.*
+
+## What is confirmed (✅)
+1. **The Readiness Roadmap (JOIN(2025) 27, 16 Oct 2025) does schedule industry dialogue linked to capability coalitions**: the Commission, "in close cooperation with lead nations of the capability coalitions, expands the strategic dialogue with industry in first half of 2026 and hosts the first annual Defence Industrial Summit by mid-2026" (summit: governments, EU actors, primes, SMEs, mid-caps, tech innovators). Also: Commission overview of the industrial capacity ramp-up needed per capability area from mid-2026; member-state data on industrial capacity per priority area by mid-2026. → `research/sources/2025ec_defence_readiness_roadmap_2030_joint_communication.md`
+2. **Capability coalitions are Member State-led** (lead and co-lead nations, open to later joiners, EDA facilitates via capability expert groups) and **each may use EDIP tools — the Roadmap's own footnote names EDPCI and SEAP — to trigger targeted EU support for flagship projects.** So coalitions are the political parent of the EDPCIs; the five EDPCIs correspond to the flagships (Drone, Eastern Flank Watch, Air Shield, Space Shield) plus maritime.
+3. **A working example of industry meeting coalition leaders exists**: Commission-hosted EUDIS Tech Alliance launch on 28 Nov 2025 — emerging defence companies pitched to Member State representatives "including leaders of the drone / counterdrone capability coalition", plus a roundtable with 40+ companies from the EU and Ukraine. → `research/sources/2025ec_eudis_tech_alliance_launch_event.md`
+4. **Ministerial-level industry input goes through the association ASD**: defence ministers heard ASD's president before discussing readiness on 12 May 2026 (⚠️ via a monitoring site). → `research/sources/2026ieumonitoring_fac_defence_12_may_2026.md`
+5. The Commission's "one-stop-shop" for flagships serves **Member States**, not companies (Roadmap text); the Commission 3 Jul 2026 news item mentions no industry call for the EDPCIs. → `research/sources/2026ec_commission_proposes_five_joint_defence_projects_news.md`
+
+## What I could NOT find
+- ⚠️ **No document says the dialogue / Summit actually took place or what it produced.** The "European Defence & Security Summit" of 23–24 Jun 2026 in Brussels (Kubilius speaking) that appeared in search results is a **private conference**, not the Commission's Defence Industrial Summit — do not conflate. No official Defence Industrial Summit announcement surfaced.
+- **No public list of capability-coalition lead/co-lead nations**, and no document on the "coordination arrangement" participating states were to agree by spring 2026 for each flagship.
+- **No EDPCI-specific supplier registry, matchmaking or call.** No Czech role in an EU capability coalition is documented. (The "Drone Coalition" co-led by Latvia and the UK, which Czechia joined, belongs to the **Ukraine Defense Contact Group** — a *different* structure from the EU's Member States Capability Coalitions; ⚠️ known only from search snippets.)
+- Context ⚠️: before the Dec 2025 European Council, Germany, France and Italy resisted endorsing the flagships at EU level (EPRS); that dispute has since been overtaken by the Council's 28 Sep 2026 decision.
+
+## Assessment
+The mechanism the EP study mentions **exists on paper and in official policy** — but it is a **Member State / Commission-level forum plus ad-hoc events**, not a published entry route for an individual supplier. The practical channels visible today are: (a) the **Czech state** as participant (MPO/MoD) passing supplier information to coalition/EDPCI leads; (b) **associations** (ASD at EU level; AOBP in Czechia) that sit in the dialogues; (c) Commission-hosted **Tech Alliance-type events** (drone/counter-drone first; innovator-oriented). All three need confirmation for a battery/RF supplier.
+
+## Sharpest follow-ups
+1. Ask MPO (Benda): **which EU capability coalitions does Czechia belong to (drones/counter-drone, air & missile defence, space, ground/eastern flank), who are their lead/co-lead nations, and is Czechia involved in the Defence Industrial Summit / industry dialogues?**
+2. Ask AOBP and ASD whether they take part in the Commission's strategic dialogue / Defence Industrial Summit and whether supplier input for EDPCIs is being collected.
+3. Ask DG DEFIS (EUDIS Tech Alliance contact on the DEFIS site) whether Tech Alliances will extend beyond drones and how a Czech company registers.
+4. Retrieve the Roadmap factsheet of 20 Aug 2026 (link on the Commission Readiness Roadmap page) and the 19 Mar 2026 European Council conclusions for status updates.
