@@ -35,3 +35,37 @@
 - Article 35 EDPCI
     - (13) Member states, associated countries and joint armament structures (of member states and associated countries) are eligible for funding (**companies are not recepients**)
     - can cover up to 100 % of eligible costs, no national contribution needed
+
+[BusinessInfo.cz](https://www.businessinfo.cz/clanky/evropa-otevrela-penezenku-na-obranne-inovace-jak-se-k-ni-ceske-firmy-dostanou/)
+- EDF and EDIP = oriented at research and development from multi-national consortium
+    - at least three subjects from three countries
+    - EDIP (1.5 BEUR for 2025-2027) entered in 2025, 2026 is its first programs
+
+[MPO new hire](https://mpo.gov.cz/cz/rozcestnik/uredni-deska/statni-sluzba/oznameni-o-vyhlaseni-vyberoveho-rizeni-podle-sluzebniho-zakona--294423/)
+- MPO is looking for someone to lead department of defense-industry cooperation
+- part would be support czech's presence at EDIP
+- [Matej Benda](https://mpo.gov.cz/cz/rozcestnik/pro-media/tiskove-zpravy/novym-reditelem-odboru-obranne-prumyslove-spoluprace-jmenovan-matej-benda--294574/) got the position
+
+[MPO guideline for industry for cooperation with ACR](https://mpo.gov.cz/cz/prumysl/obranny-prumysl/spoluprace-s-domacim-prumyslem/strucny-manual-pro-firmy-mimo-obranny-prumysl--ktere-se-chteji-vice-zapojit-do-spoluprace-s-acr--294696/)
+- Asociace obranneho a bezpecnostniho prumyslu
+- EDIP is being prepaired (should implement Strategy for European defense industry) -> expected to be accepted in second half of 2026
+
+[3rd July 2026, EC proposes five EDPCIs](https://defence-industry-space.ec.europa.eu/commission-proposes-five-joint-defence-projects-strengthen-europes-industrial-capabilities-2026-07-03_en)
+- allocated 325 MEUR from 1.5 BEUR EDIP budget
+- framework for EU countries to work together on major defence initiatives (too large/complex for individual countries)
+- once the Council adopts the list of identified EDPCIs, they will be eligible to receive EU funding
+
+[EDIP workprograme](https://defence-industry-space.ec.europa.eu/document/download/9c5afd33-c35e-4381-9139-dd52b70ce143_en?filename=C_2026_2174_1_EN.pdf)
+- funding call run by Commision's defence directorate (DG DEFIS)
+- only states can apply
+- money can be used for: joint procurement, expanding production capacity, developing new/upgrading products, infrastructure
+- no budget for 2026, ~ 300 MEUR for 2027
+- no opening date/deadline
+
+[December 2025, Finland and Poland to co-lead Eastern Flank Watch](https://www.rapporteur.com/news/finland-and-poland-to-co-lead-eastern-flank-watch-defence-project/)
+- the group plans to establish EDPCI under EDIP (obviously suceeded)
+
+[September 2026, europerspective EDPCIs](https://euperspectives.eu/2026/09/eu-approves-five-joint-defence-projects-funding/)
+- The funding makes the five initiatives eligible to receive support for establishment and initial deployment
+- Funding decisions to follow
+- 
