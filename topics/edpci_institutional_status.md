@@ -31,6 +31,13 @@ Evidence: ✅ = official; ⚠️ = secondary/inferred.
 - **Not yet published**: call dates, funding rate, milestones, verification (all "at a later stage" under Reg. Art. 21(3)).
 - Source: `research/sources/2026ec_edip_work_programme_2026_2027_c_2026_2174.md`.
 
+## Origin of the concept (added 2026-10-08; policy sequence ✅)
+1. **Mar 2024 — EDIS Joint Communication:** first proposes EDPCIs via EDIP: "European defence infrastructure of common interest and use", capabilities "European by nature" by 2035 (air/missile defence, Space Domain Awareness, cyber defence network, maritime/underwater assets); SEAP as legal vehicle.
+2. **Mar 2025 — White Paper Readiness 2030:** "Defence Projects of Common European Interest … defined by Member States", with EU incentives.
+3. **Oct 2025 — Readiness Roadmap 2030:** four flagships; Member State-led capability coalitions may use EDPCI/SEAP tools.
+4. **16 Dec 2025 — EDIP Regulation** (Art. 35); **16 Feb–29 May 2026** call for expressions of interest; **3 Jul 2026** Commission proposal; **28 Sep 2026** Council identifies five EDPCIs.
+Notes: `research/sources/2024ec_edis_joint_communication_european_defence_industrial_strategy.md`, `research/sources/2025ec_white_paper_european_defence_readiness_2030.md`.
+
 ## Assessment
 EDPCI is an **EU Council-identified, member-state-driven framework under EDIP** — real legal status, but the identification itself carries **no binding funding commitment and no company-facing call**. The headline "EUR 3.5–100 bn" figures are *estimated overall sizes of the projects* (largely national spending), not EU funding. Do not present EDPCI as a funding pot.
 
