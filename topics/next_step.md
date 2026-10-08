@@ -19,5 +19,8 @@
 ## Status check (2026-10-01)
 Nobody can have applied for EDPCI funding yet (no open call); no EDPCI workshops/info days found; only named initiators: Eastern Flank Watch (LT, FI, EE, LV, PL, SE). See `topics/edpci_state_activity.md`.
 
+## Per-project notes
+`topics/efw_timeline.md` (best documented), `topics/space_edpci.md`; others via `topics/pci_comparison.md`.
+
 ## Open items
 - EDPCI "dedicated procedure"/work-programme text; named leads/procurement agents/SEAPs per EDPCI; Czech coordinating body; Czech companies involved; OJ text of Decision (EU) 2026/2221 (⚠️ number from EU Law Live).
