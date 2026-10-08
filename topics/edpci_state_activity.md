@@ -2,6 +2,12 @@
 
 *Scope: EDPCI only. ✅ official; ⚠️ unverified/secondary.*
 
+## Portal check, 8 Oct 2026 (added) — "try really hard" result
+- ✅ **No EDPCI call or topic exists on the Funding & Tenders Portal — not open, not even "forthcoming".** 11 EDIP topics are listed; none contains EDPCI. So **no EDPCI project has been funded, awarded or even applied for through any call**, and **no EDPCI call date or deadline is published anywhere** I could reach (portal, Commission EDIP page — unchanged since 1 Oct —, press releases). → `research/sources/2026ec_funding_tenders_portal_edip_topics_snapshot_2026_10_08.md`
+- ✅ Only forward-looking date on the portal that touches EDPCI machinery: the **SEAP-functioning support topic opens 13 Oct 2026** (cut-offs 12 Nov 2026, 16 Feb 2027, …). It funds SEAP running costs (EUR 10 m total), **not** EDPCI deployment; EDPCIs may be set up within a SEAP (Reg. Art. 35(12)).
+- ✅ Planned dates from official documents (not calls): second call for expressions of interest before end Apr 2027; CSA roadmap deliverables end 2027 / end 2029; EDPCI deployment money booked in 2027 appropriations.
+- ✅ **Only EDPCI-related event found:** Greek MoD "EDIP Info Day" with an EDPCI focus, Athens, 24 Sep 2026 (planned; outcome unknown) — national, not Commission. → `research/sources/2026oeb_greece_mod_edip_info_day_24_september_2026.md`
+
 ## Applications / funding
 - ✅ **No EDPCI grant call is open yet** and none has a date (Work Programme C(2026) 2174: call defined, EUR 300 m "considered", booked in 2027 appropriations; rates/milestones/verification "at a later stage"). So **nobody can have formally applied for EDPCI funding yet.** → `research/sources/2026ec_edip_work_programme_2026_2027_c_2026_2174.md`
 - ✅ The only "application-like" step so far was the **call for expressions of interest** (16 Feb–29 May 2026): Member States submitted **nine** project proposals; five were identified. The Council decision names no lead nation, consortium or per-project EU share (also noted by a secondary commentator ⚠️).

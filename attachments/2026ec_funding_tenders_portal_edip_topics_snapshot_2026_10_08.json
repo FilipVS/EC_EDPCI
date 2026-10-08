@@ -1,0 +1,84 @@
+{
+ "source": "EU Funding & Tenders Portal public search API (SEDIA), queried 2026-10-08",
+ "query": "text=EDF-EDIP / EDPCI / FNLC-EDPCI / FNLC-CSA / \"common interest\", types 1,2,8 (call topics)",
+ "edip_topics_found": {
+  "EDF-EDIP-P-2027-FNLC-CPA-C5ISRS": {
+   "status": "OPEN",
+   "startDate": "2026-06-17",
+   "deadlines": [
+    "2027-02-16"
+   ]
+  },
+  "EDF-EDIP-P-2027-FNLC-CPA-AMDS": {
+   "status": "OPEN",
+   "startDate": "2026-06-17",
+   "deadlines": [
+    "2027-02-16"
+   ]
+  },
+  "EDF-EDIP-P-2027-FNLC-CPA-GNPS": {
+   "status": "OPEN",
+   "startDate": "2026-06-17",
+   "deadlines": [
+    "2027-02-16"
+   ]
+  },
+  "EDF-EDIP-P-2026-FNLC-CPA-AMEW": {
+   "status": "OPEN",
+   "startDate": "2026-04-30",
+   "deadlines": [
+    "2026-10-13"
+   ]
+  },
+  "EDF-EDIP-P-2026-FNLC-CPA-CDS": {
+   "status": "OPEN",
+   "startDate": "2026-04-30",
+   "deadlines": [
+    "2026-10-13"
+   ]
+  },
+  "EDF-EDIP-P-2027-LS-IRA-KEC": {
+   "status": "OPEN",
+   "startDate": "2026-06-17",
+   "deadlines": [
+    "2027-02-16"
+   ]
+  },
+  "EDF-EDIP-P-2027-LS-IRA-PE": {
+   "status": "OPEN",
+   "startDate": "2026-06-17",
+   "deadlines": [
+    "2027-02-16"
+   ]
+  },
+  "EDF-EDIP-P-2026-LS-IRA-EC": {
+   "status": "None",
+   "startDate": "2026-06-23",
+   "deadlines": []
+  },
+  "EDF-EDIP-USI-2027-LS-IRA-CUXS": {
+   "status": "OPEN",
+   "startDate": "2026-06-17",
+   "deadlines": [
+    "2027-02-16"
+   ]
+  },
+  "EDF-EDIP-USI-2026-LS-IRA-MAB": {
+   "status": "None",
+   "startDate": "2026-09-30",
+   "deadlines": []
+  },
+  "EDF-EDIP-P-2026-2027-FNLC-SA-SEAP": {
+   "status": "FORTHCOMING",
+   "startDate": "2026-10-13",
+   "deadlines": [
+    "2026-11-12",
+    "2027-02-16",
+    "2027-09-28",
+    "2028-01-27",
+    "2028-05-30"
+   ]
+  }
+ },
+ "topics_containing_EDPCI": []
+}
