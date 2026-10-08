@@ -19,3 +19,10 @@ Best-documented of the five EDPCIs. Tiers: ✅ official; ⚠️ news/analyst/min
 - Formal lead/coordinator(s) after the Council decision (Finland + Poland politically announced only).
 - Participant count discrepancy (ministry "18" vs Council draft 15 MS + NO + UA) and the reason for the EFW size change between proposal and Council draft.
 - Basis of the Lithuanian minister's "EUR 62 m short-term" claim (unverified).
+
+## Relation to the Roadmap flagship (added 2026-10-08)
+- **Flagship (JOIN(2025) 27, ✅)**: Member State-led political initiative; Commission as "one-stop-shop" facilitator for states; scope = multi-domain surveillance, drone/counter-drone ("core component"), electronic warfare, precision strike, Baltic/Black Sea maritime security, internal security and border management; milestones: launch Q1 2026, initial capacity end 2026, functional end 2028; EUCO endorsement expected end 2025 (not given — EPRS, Council timeline).
+- **EDPCI (Council annex, ✅)**: legal status under Reg. Art. 35 making the participating group's activities eligible for EDIP grants; six pillars (ground combat, drone defence, C4ISTAR, counter-mobility, military mobility, AMD); no explicit EW or precision strike; drones/C-UAS also covered by the separate DECODER EDPCI (division of work not stated).
+- **Link:** Roadmap footnote — coalitions may use EDPCI/SEAP tools to trigger EU support; Kubilius (Commission news 3 Jul 2026): the EDPCIs contribute to "a European Air, Maritime and Space Shield, enhanced Drone and Counter-Drone Capabilities, and securing the Eastern Flank Watch". Mapping of each EDPCI to a flagship is my reading (⚠️), not an official table.
+- ⚠️ Inference: EDPCI money is booked in 2027, so it cannot have financed the flagship's "initial capacity by end 2026".
+- Sources: `research/sources/2025ec_defence_readiness_roadmap_2030_joint_communication.md`, `research/sources/2026ec_readiness_roadmap_2030_page.md`, `research/sources/2026ec_commission_proposes_five_joint_defence_projects_news.md`, `research/sources/2026eprs_european_defence_readiness_roadmap_2030.md`.
